@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+nav:hover{
+    cursor: pointer;
+}
+
+span{
+    cursor: pointer;
+    /* display-design: none; */
+}
+
+.container{
+    cursor: pointer;
+
+}
+
